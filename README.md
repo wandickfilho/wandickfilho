@@ -1,16 +1,19 @@
-## Hi there 👋
+👨‍💻 Sobre mim
 
-<!--
-**wandickfilho/wandickfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou **Wandick Filho**, estudante de **Ciência da Computação** e desenvolvedor em formação com foco em **Back-end**.
 
-Here are some ideas to get you started:
+Gosto de transformar ideias em projetos e estou sempre buscando evoluir minhas habilidades através de novas tecnologias e experiências.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de Ciência da Computação
+- 💻 Foco em desenvolvimento Back-end
+- ☕ Aprendendo e desenvolvendo com Java
+- 🌐 Conhecimentos em desenvolvimento Web
+- 🚀 Sempre buscando novos desafios
+
+🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,js,ts,html,css,nodejs,git,github,vscode" />
+
+</div>
