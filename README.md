@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:0D0D0D,50:8B0000,100:FF1744&text=WANDICK%20FILHO&fontColor=FFFFFF&fontSize=48&fontAlignY=45&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER&descSize=17&descAlignY=68&descColor=FF6B6B" width="100%"/>
@@ -27,7 +26,6 @@
 
 <br>
 
-
 <h2>01. / ABOUT ME</h2>
 
 <div align="center">
@@ -50,14 +48,13 @@ and continuously improving my skills through hands-on experience.
 
 </div>
 
-
 <h2>02. / MY TOOLBOX</h2>
 
 <div align="center">
 
 **LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=java,c,js,ts&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts&theme=dark"/>
 
 <br><br>
 
@@ -110,10 +107,6 @@ Junior enterprise dedicated to developing websites and digital solutions for loc
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandickfilho&layout=compact&theme=transparent&title_color=FF1744&text_color=FFFFFF&border_color=8B0000&hide_border=false"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=wandickfilho&theme=dark&background=0D0D0D&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&border=8B0000"/>
 
 <br><br>
 
