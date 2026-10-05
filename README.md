@@ -86,9 +86,6 @@ and continuously improving my skills through hands-on experience.
 
 <br><br>
 
-### VALE CODE
-
-Web development initiative focused on building modern websites and digital solutions for businesses and professionals.
 
 ### CANDEX HOUSE
 
